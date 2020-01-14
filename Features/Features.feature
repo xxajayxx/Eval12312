@@ -7,7 +7,7 @@ Given navigate to homepage
 When user enter the username and password "<username>" "<password>"
 Then message login successfully
 Examples:
-|username|password|
-|Laltiha|Password123|
-|Rick|Rick123|
-|Andrew|Andrew123|
+| username | password |
+| Laltiha | Password123 |
+| Rick |Rick123 |
+| Andrew |Andrew123 |
